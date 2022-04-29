@@ -1,0 +1,1 @@
+php composer.phar require "mercadopago/dx-php"
